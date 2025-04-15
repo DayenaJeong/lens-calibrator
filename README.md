@@ -34,7 +34,7 @@ cy = 542.80
 
 | Before | After |
 |--------|-------|
-| ![](image.jpg) | ![](corrected_image.png) |
+| ![](image.png) | ![](corrected_image.png) |
 
 > 왜곡된 이미지를 보정하여, 곡선이 펴지고 격자가 더욱 정렬되었음을 확인할 수 있습니다.
 
