@@ -5,14 +5,14 @@ It extracts chessboard corners from images, calculates camera intrinsics, and pe
 
 ---
 
-### 🔲 Chessboard Information
+### Chessboard Information
 
 - 내부 코너 수: **9 × 6** (가로 10칸 × 세로 7칸)
 - 캘리브레이션에 사용된 프레임 수: *총 26장*
 
 ---
 
-### 📸 Camera Calibration Results
+### Camera Calibration Results
 
 ```plaintext
 fx = 1662.27  
@@ -30,7 +30,7 @@ cy = 542.80
 
 ---
 
-### 🌀 Distortion Correction Demo
+### Distortion Correction Demo
 
 | Before | After |
 |--------|-------|
