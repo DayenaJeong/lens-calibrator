@@ -1,4 +1,4 @@
-## 📐 Camera Calibration & Lens Distortion Correction
+## Camera Calibration & Lens Distortion Correction
 
 A simple camera calibration and distortion correction project using OpenCV.  
 It extracts chessboard corners from images, calculates camera intrinsics, and performs lens distortion correction.
